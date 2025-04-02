@@ -19,8 +19,11 @@ Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de un
 Para subir ficheros a un repositorio se usan tres comandos:
 
 ```bash
+
 git add -A #añade los ficheros a git
 git commit -m "actualizar el README"
 git push 
 
 git pull #bajar cambios de un repositorio en la nube
+
+```
